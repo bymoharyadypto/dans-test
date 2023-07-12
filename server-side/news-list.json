@@ -1,0 +1,163 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "email": "budi@mail.com",
+      "username": "budi",
+      "password": "12345",
+      "role": "client",
+      "phoneNumber": "",
+      "address": ""
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Teten dan Mahfud MD Mencari Titik Temu Tangani Koperasi Bermasalah",
+      "content": "Delapan koperasi bermasalah yang telah masuk proses homologasi putusan penundaan kewajiban pembayaran utang atau PKPU kian memprihatinkan. Banyak anggota koperasi harus menunggu proses pencairan yang diperkirakan memakan waktu bertahun-tahun. Kini, proses pengembalian dana anggota koperasi, seperti Koperasi Simpan Pinjam Indosurya Cipta, seakan bakal semakin sulit pasca-penangkapan pendiri dan pengurus koperasi oleh aparat kepolisian.",
+      "imgUrl": "https://assetd.kompas.id/t-2_lV_cLYiIw_Cu8hyom10eGh8=/1200x764/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2022%2F02%2F06%2F9192d0a5-867d-4860-9d9d-3c046dc78658_jpeg.jpg",
+      "authorId": 2,
+      "categoryId": 1,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "Transisi Ekonomi Hijau Butuh Investasi Besar",
+      "content": "Pembangunan rendah karbon menjadi salah satu langkah pemerintah untuk mencapai pembangunan berkelanjutan sekaligus transisi ekonomi menuju ekonomi hijau. Salah satu tantangan yang dihadapi Indonesia saat ini dalam proses tranformasi ekonomi hijau adalah besaran nilai investasi.",
+      "imgUrl": "https://assetd.kompas.id/cPyGnzj5-wvvkZk51UpaU_zlbRI=/1200x675/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2022%2F02%2F21%2F4085fd86-922b-4acc-9b28-eaf53e300ce7_jpg.jpg",
+      "authorId": 2,
+      "categoryId": 1,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "title": "Minyak Goreng Curah Disubsidi, Pedagang Pasar Minta Dilibatkan",
+      "content": "Pemerintah memastikan bakal menyubsidi harga minyak goreng curah dan menetapkan harga eceran tertinggi atau HET-nya sebesar Rp `1`4.000 per liter di tingkat masyarakat. Para pedagang pasar tradisional berharap dilibatkan secara aktif agar rantai pasok terjaga dan minyak goreng tetap sampai ke masyarakat dengan harga yang layak",
+      "imgUrl": "https://assetd.kompas.id/5CZCGURe_iUyGkrXG_-YZRw7R28=/1200x675/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2022%2F03%2F16%2Fd33151d6-7f10-47ba-a42f-2df534834661_jpg.jpg",
+      "authorId": 1,
+      "categoryId": 1,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "Membaca Doktrin dan Strategi Militer Rusia dari Perspektif Barat",
+      "content": "Keputusan Rusia untuk menyerang Ukraina tidak terlepas dari doktrin dan strategi militer negara dengan kekuatan militer terbesar kedua setelah Amerika Serikat itu. Doktrin keamanan resmi Rusia tertuang dalam Doktrin Militer 2014 dan Strategi Keamanan Nasional (NSS) 2015. Dokumen strategi kunci lainnya ialah Konsep Kebijakan Luar Negeri 2016, Strategi Angkatan Laut 2017, dan Prinsip Strategi Penanggulangan Nuklir 2020.",
+      "imgUrl": "https://assetd.kompas.id/Sz9YDOys-fk1UTNlYi7_CcnSZuI=/1200x800/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2022%2F03%2F08%2F8f584984-ff86-447f-860f-9ea0e31555d6_jpg.jpg",
+      "authorId": 1,
+      "categoryId": 5,
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "title": "Kemarau Panjang Manchester United",
+      "content": "Manchester United kembali dipastikan tanpa gelar juara di musim ini. Peluang terakhir MU meraih gelar dari Liga Champion Eropa sirna seiring kekalahan 0-1 dari Atletico Madrid di Stadion Old Trafford, Rabu (16/3/2022) dini hari WIB. Kekalahan itu membuat kemarau panjang MU berlanjut setelah melewati lima musim tanpa gelar juara.",
+      "imgUrl": "https://assetd.kompas.id/dLvL2Gp18LhOAPRUpSzJRaPdaxI=/1200x699/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2022%2F03%2F16%2F02d367b8-691e-4751-b82e-3343ee8ab28c_jpg.jpg",
+      "authorId": 1,
+      "categoryId": 2,
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "title": "Pemanasan Jelang SEA Games, Lalu M Zohri Tampil di Kejuaraan Dunia Indoor",
+      "content": "Jelang SEA Games 2021 di Vietnam pada 12-23 Mei mendatang, pelari 100 meter andalan Indonesia, Lalu Muhammad Zohri, mendapatkan kesempatan pemanasan dalam Kejuaraan Dunia Indoor 2022 di Belgrade, Serbia, 18-20 Maret ini. Dalam kejuaraan dua tahunan ini, pelari asal Nusa Tenggara Barat atau NTB ini akan berlomba pada nomor lari 60 meter",
+      "imgUrl": "https://assetd.kompas.id/yAUUtUKCAmC_KtD1QrPirLKy_2Y=/1200x750/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2021%2F10%2F13%2F1e7b7042-f985-4c47-912d-54d0e768edc0_jpg.jpg",
+      "authorId": 2,
+      "categoryId": 2,
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "title": "qwerqwr",
+      "content": "qwrqwrqwr",
+      "imgUrl": "qwrqwr",
+      "categoryId": "1",
+      "authorId": 1
+    },
+    {
+      "id": 9,
+      "title": "wrqwrqw",
+      "content": "qrqwr",
+      "imgUrl": "qwrqwr",
+      "categoryId": "1",
+      "authorId": 1
+    },
+    {
+      "id": 10,
+      "title": "wrqwrfafasfasfasf",
+      "content": "qwrqwr",
+      "imgUrl": "qwrqwrqwr",
+      "categoryId": "4",
+      "authorId": 1
+    },
+    {
+      "id": 11,
+      "title": "",
+      "content": "",
+      "imgUrl": "",
+      "categoryId": null,
+      "authorId": 1
+    },
+    {
+      "id": 12,
+      "title": "",
+      "content": "",
+      "imgUrl": "",
+      "categoryId": null,
+      "authorId": 1
+    },
+    {
+      "title": "",
+      "content": "",
+      "imgUrl": "",
+      "categoryId": null,
+      "authorId": 1,
+      "id": 13
+    },
+    {
+      "id": 14,
+      "title": "",
+      "content": "",
+      "imgUrl": "",
+      "categoryId": null,
+      "authorId": 1
+    },
+    {
+      "id": 15,
+      "title": "",
+      "content": "",
+      "imgUrl": "",
+      "categoryId": null,
+      "authorId": 1
+    },
+    {
+      "id": 16,
+      "title": "",
+      "content": "",
+      "imgUrl": "",
+      "categoryId": null,
+      "authorId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ekonomi"
+    },
+    {
+      "id": 2,
+      "name": "Olahraga"
+    },
+    {
+      "id": 3,
+      "name": "Otomotif"
+    },
+    {
+      "id": 4,
+      "name": "Politik"
+    },
+    {
+      "id": 5,
+      "name": "Internasional"
+    }
+  ]
+}
